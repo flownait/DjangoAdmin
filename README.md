@@ -1,8 +1,16 @@
 # DjangoAdmin
 Some Records here for Django Admin Site customization
 
-Model Field Setting
-https://docs.djangoproject.com/en/2.1/ref/models/fields/
+How to import Model from another App
+https://stackoverflow.com/questions/31406662/django-unable-to-import-model-from-another-app
+Switch
+from News.models import News_Article
+to
+from Bolton_GC.News.models import News_Article
+
+
+Model Field Setting 
+https://docs.djangoproject.com/en/2.1/ref/models/fields/ 
 Especially for DateField
 DateField.auto_now vs DateField.auto_now_add
 Automatically set the field to now everytime saved vs first created. 
