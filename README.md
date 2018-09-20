@@ -17,9 +17,12 @@ Automatically set the field to now everytime saved vs first created.
 
 
 Regular expression
+
 https://docs.djangoproject.com/en/2.1/ref/models/querysets/#regex
+
 Look up with Q filter
 https://docs.djangoproject.com/en/2.1/topics/db/queries/#complex-lookups-with-q
+https://stackoverflow.com/questions/687295/how-do-i-do-a-not-equal-in-django-queryset-filtering
 
 How to upload a file
 https://stackoverflow.com/questions/2443752/django-display-image-in-admin-interface
