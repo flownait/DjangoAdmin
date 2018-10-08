@@ -16,6 +16,7 @@ https://docs.djangoproject.com/en/2.1/ref/models/fields/
 1.Especially for DateField
 DateField.auto_now vs DateField.auto_now_add
 Automatically set the field to now everytime saved vs first created. 
+
 2. for Primary Unique Key
 
 
