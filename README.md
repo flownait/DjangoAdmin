@@ -37,6 +37,7 @@ https://stackoverflow.com/questions/2443752/django-display-image-in-admin-interf
 
 3. Multiple Image Display
 
+https://stackoverflow.com/questions/16307307/django-admin-show-image-from-imagefield
 https://stackoverflow.com/questions/16985258/how-to-show-multiple-images-in-django-admin-panel
 
 4. Action for Downloading (Not testing...)
