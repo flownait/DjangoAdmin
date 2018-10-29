@@ -33,3 +33,21 @@ https://stackoverflow.com/questions/687295/how-do-i-do-a-not-equal-in-django-que
 
 How to upload a file
 https://stackoverflow.com/questions/2443752/django-display-image-in-admin-interface
+
+
+3. Multiple Image Display
+
+https://stackoverflow.com/questions/16985258/how-to-show-multiple-images-in-django-admin-panel
+
+4. Action for Downloading (Not testing...)
+
+https://www.endpoint.com/blog/2012/02/22/dowloading-csv-file-with-from-django
+
+5. Permissiong for Add, Delete, Save
+
+https://docs.djangoproject.com/en/2.1/ref/contrib/admin/#django.contrib.admin.ModelAdmin.has_add_permission
+
+6. Help Text
+
+https://docs.djangoproject.com/en/2.1/ref/models/fields/#help-text
+
