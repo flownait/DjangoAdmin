@@ -56,6 +56,7 @@ https://docs.djangoproject.com/en/2.1/ref/contrib/admin/#django.contrib.admin.Mo
 https://docs.djangoproject.com/en/2.1/ref/models/fields/#help-text
 
 7. To Load all static files, js, css, setting with Debug=False
+
 manage.py runserver 0.0.0.0:8000 --insecure
 
 https://stackoverflow.com/questions/5836674/why-does-debug-false-setting-make-my-django-static-files-access-fail
